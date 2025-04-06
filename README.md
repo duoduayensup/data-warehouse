@@ -12,20 +12,20 @@ This project demonstrate a comprehensive data warehousing and anaytics solution,
 Develop a modern data warehouse using SQL sever to consolidate Sales data , enabling analytical reporting and informed decision making.
 
 #### Specification 
--**Data Source** : Import data from source system (ERP & CRM) provided as CSV file.
--**Data Quality** :Clean and resolve data quality issuses prior to analysis
--**Intergration** : Combine Both source in a single user friendly data model desingned for analytical queries
--**Scope** : Focus on the latest dataset only, Historization of data is not **REQUIRED** 
--**Documentation** : Provide clear documentation of the data model to support both business stakeholders and analytics teams
+- **Data Source** : Import data from source system (ERP & CRM) provided as CSV file.
+- **Data Quality** :Clean and resolve data quality issuses prior to analysis
+- **Intergration** : Combine Both source in a single user friendly data model desingned for analytical queries
+- **Scope** : Focus on the latest dataset only, Historization of data is not **REQUIRED** 
+- **Documentation** : Provide clear documentation of the data model to support both business stakeholders and analytics teams
 
 
 ### BI : Anlytics & Reporting (Data Analytics)
 
 #### Objective
 Develop SQL base analytics to deliver detailed insight into 
--**Customer Behaviour**
--**Product Perfomance**
--**Sales Trends**
+- **Customer Behaviour**
+- **Product Perfomance**
+- **Sales Trends**
 
 These insight empowers stakeholders with key business metrics , enabling strategic decision making 
 
