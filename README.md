@@ -34,6 +34,8 @@ These insight empowers stakeholders with key business metrics , enabling strateg
 ## 📕📕 License 
 This Project is Lincense under the [MIT License](License). You are free to use,modify and share this project with proper attribution.
 
+---
+
 ## 🧔🏾‍♂️🧔🏾‍♂️ About me 
 Hello! , I am Patrick A. Duodu. You can call me Rick. I am a Data Engineer.This is my first project and i am on a mission to share my ideas. Credit goes to **Baraa Khatib Salkini** For the mentorship. **ENJOY**!!!❤️❤️❤️
 
