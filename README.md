@@ -18,7 +18,7 @@ Develop a modern data warehouse using SQL sever to consolidate Sales data , enab
 -**Scope** : Focus on the latest dataset only, Historization of data is not **REQUIRED** 
 -**Documentation** : Provide clear documentation of the data model to support both business stakeholders and analytics teams
 
----
+
 ### BI : Anlytics & Reporting (Data Analytics)
 
 #### Objective
